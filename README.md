@@ -1,6 +1,6 @@
 # Apostrofree - Free your apostrophes, free your potential 
 
-![](https://github.com/tjmblake/apostrofree/freedom-dog.webp)
+![](https://github.com/tjmblake/apostrofree/blob/main/freedom-dog.webp)
 
 ## Protect the Buffer
 
