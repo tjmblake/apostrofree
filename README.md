@@ -1,8 +1,8 @@
-# Apostrofree - Free your apostrophes, free your potential 
+# ⚡️ Apostrofree - Free your apostrophes, free your potential 
 
 ![](https://github.com/tjmblake/apostrofree/blob/main/freedom-dog.webp)
 
-## Protect the Buffer
+## Protect the Buffer 🛡️
 
 A wise man once said, consistency is key.
 
@@ -11,17 +11,17 @@ instead of U+0027.
 
 This package helps you spot and replace those rogue U+2019 chars.
 
-## Usage
+## Usage 🛠️
 
 Install with package manager. 
 
-## Default Bindings
+### Default Bindings 🔑
 
 ```lua
 '<Leader>apos' => replace all U+2019 chars with U+0027
 ```
 
-Setup Diagnostics:
+### Setup Diagnostics 📡
 
 ```lua
 local apos = require('apostrofree')
